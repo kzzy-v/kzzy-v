@@ -192,7 +192,7 @@ I share the methods through Vaylo's Inner Circle: what I'm using, what I'm chang
 
 ## The build continues
 
-[![kzzy47 contribution calendar, refreshed daily from the public GitHub profile.](assets/activity.svg)](https://github.com/kzzy47?tab=overview)
+[![Contribution calendar, refreshed daily from the public GitHub profile.](assets/activity.svg)](https://github.com/kzzy-v?tab=overview)
 
 <details>
 <summary><strong>Open the activity notes → What these numbers mean</strong></summary>
@@ -201,7 +201,7 @@ This is the contribution calendar GitHub exposes publicly for this profile. It c
 
 The image shows its snapshot date and refreshes daily. It does not read private repository contents or publish repository names.
 
-[View the public profile](https://github.com/kzzy47) · [Check the refresh workflow](https://github.com/kzzy47/kzzy47/actions/workflows/profile-activity.yml)
+[View the public profile](https://github.com/kzzy-v) · [Check the refresh workflow](https://github.com/kzzy-v/kzzy-v/actions/workflows/profile-activity.yml)
 
 </details>
 
